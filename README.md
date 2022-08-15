@@ -2,7 +2,8 @@
 
 ✨Languages and Tools✨:
 
-![Docker]([https://user-images.githubusercontent.com/101796802/184599326-862fd4f5-90ca-44f6-b22e-063c4b34026c.png](https://www.docker.com/))
+![language_libraries_tools](https://user-images.githubusercontent.com/101796802/184600378-6444ca29-2bcf-4213-95de-e9fca2b8763e.png)
+
 
 
 cplusplus docker git heroku kafka kubernetes mongodb opencv pandas postgresql postman python scikit_learn seaborn tensorflow
