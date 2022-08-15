@@ -1,6 +1,7 @@
-###                                                                     Hi there, I'm Iñigo👋
+####                                                               Hi there, I'm Iñigo👋
 
-<!--
+Languages and Tools:
+cplusplus docker git heroku kafka kubernetes mongodb opencv pandas postgresql postman python scikit_learn seaborn tensorflow
 **iremirezdeganuza72/iremirezdeganuza72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
