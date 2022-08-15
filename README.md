@@ -1,12 +1,8 @@
 ### Hi there, I'm Iñigo👋
 
-
+I am passionate about data and have spent my entire professional career working with data analysis in the commercial departments of different companies, always using business intelligence tools. Now I have thrown myself into the wonderful world of programming, data analysis, Machine learning training algorithms, Neural Networks and Artificial Intelligence applications.
 
 ✨Languages, libraries & tools✨: ![language_libraries_tools](https://user-images.githubusercontent.com/101796802/184600378-6444ca29-2bcf-4213-95de-e9fca2b8763e.png)
-
-
-
-cplusplus docker git heroku kafka kubernetes mongodb opencv pandas postgresql postman python scikit_learn seaborn tensorflow
 
 
 Here are some ideas to get you started:
