@@ -1,6 +1,6 @@
 ### Hi there, I'm Iñigo👋
 
-✨The languages, libraries & tools✨: ![language_libraries_tools](https://user-images.githubusercontent.com/101796802/184600378-6444ca29-2bcf-4213-95de-e9fca2b8763e.png)
+✨Languages, libraries & tools✨: ![language_libraries_tools](https://user-images.githubusercontent.com/101796802/184600378-6444ca29-2bcf-4213-95de-e9fca2b8763e.png)
 
 
 
