@@ -8,6 +8,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on commercial department 
 - 🌱 I've just finished a 
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/101796802/184923888-8180e754-3973-4e9e-8a09-e0840a342bc0.png)
 
 
