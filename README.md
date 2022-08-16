@@ -12,12 +12,20 @@ Here are some ideas to get you started:
 
 Contents included in the bootcamp;
 
+
+
 - MODUL 1: PYTHON, GIT & GITHUB
+
+
 
 - Git & Github: Agile working methodologies in the industry using git and pull-requests.
 - Python:  Functional programming. Linear Algebra. Python Advanced data structures. Python Unit Testing.
 
-- MDOUL 2: SQL & DATA ENGINEERING
+
+
+- MODUL 2: SQL & DATA ENGINEERING
+
+
 
 - PostgreSQL.
 - MongoDB & MongoDB Atlas.
@@ -25,7 +33,11 @@ Contents included in the bootcamp;
 - Matplotlib.
 - Seaborn.
 
+
+
 - MODUL 3: DATA ANALYTICS & CLOUD COMPUTING
+
+
 
 - Data augmentation.
 - Web Scraping con Selenium.
@@ -40,7 +52,11 @@ Contents included in the bootcamp;
 - Apache Spark.
 - Apache Airflow.
 
+
+
 - MODUL 4: MACHINE LEARNING & NEURAL NETWORKS
+
+
 
 - Supervised and Unsupervised Learning.
 - Training algorithms: Linear Regression, Logistic Regression, K-Means, RandomForest, etc.
@@ -53,15 +69,22 @@ Contents included in the bootcamp;
 - Convolutional Neural Networks for image classification.
 - Autoencoders.
 
+
+
+
 - MODUL 5: IA & MACHINE LEARNING APPLICATIONS · IA & Aplicaciones de Machine Learning 
+
+
+
 
 - OpenCV for identification and facial recognition.
 - Audio Processing.
 - Recurrent Neural Networks applied to Natural Language Processing (RNN for NLP).
 
-- 🏢 I'm currently in the commercial department of an e-commerce belonging to a worldwide tourism group, at TUI GROUP.
 
-https://www.tuigroup.com/en-en.
+
+
+- 🏢 I'm currently in the commercial department of an e-commerce belonging to a worldwide tourism group, at TUI GROUP, https://www.tuigroup.com/en-en.
 
 - 📫 How to reach me: iremirezdeganuza@gmail.com
 
